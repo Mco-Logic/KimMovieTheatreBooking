@@ -81,7 +81,7 @@ To reset all bookings, close the program and delete `cinema_bookings.txt`.
 
 ## Authors
 
-Tinyiko Mbidhli and group
+Mcondisi Nkuna and group
 =======
 # KimMovieTheatreBooking
 Java Swing GUI Movie Theatre Booking System featuring seat reservation grids, movie slot management, and file-based receipt processing.
